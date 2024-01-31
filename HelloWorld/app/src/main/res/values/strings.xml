@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">HelloWorld</string>
-    <string name="hello_button">SAY HELLO</string>
-    <string name="text">&lt;Text Goes Here&gt;</string>
-    <string name="Hello_World">Hello World</string>
-</resources>

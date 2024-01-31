@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="number_hint">Enter a number (ie. 1)</string>
+    <string name="number_hint_2">Enter another number (ie. 2)</string>
+    <string name="auto_complete_1">1</string>
+    <string name="auto_complete_2">2</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">result</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="missing_input">Please enter two numbers.</string>
+    <string name="invalid_operand">Please select an operand.</string>
+    <string name="divide_by_zero_error">Divide by zero error.</string>
+</resources>
