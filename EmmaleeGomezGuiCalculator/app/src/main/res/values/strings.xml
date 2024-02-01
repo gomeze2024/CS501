@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GUI Calculator</string>
+    <string name="autofill">0.0</string>
+    <string name="Error">Error</string>
+    <string name="invalid_operand">Invalid Operand</string>
+    <string name="invalid_sqrt">Invalid use of Sqrt</string>
+    <string name="invalid_multiplication">Could not multiply properly</string>
+    <string name="invalid_addition">Could not add properly</string>
+    <string name="invalid_subtraction">Could not subtract properly</string>
+    <string name="invalid_division">Could not divide properly</string>
+    <string name="negative_sqrt">Sorry no imaginary numbers here!</string>
+    <string name="divide_by_zero">Divide By Zero Error</string>
+</resources>
